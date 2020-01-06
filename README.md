@@ -22,5 +22,5 @@
 
 * Using a python source code, I created a script that takes in three parameters, a path to a public key file, a path to a ciphertext file, and a path to a file enumerating possible messages. When the scrip is executed, the identified message should be printed. 
 
-* For the second section of this part, I was tasked to use padding when encrypting the message. 
+* For the second section of this part, I was tasked to write a script that uses/adds padding to an encrypted message. This script only takes in as a parameter a path to the file containing the cypertext. 
 
