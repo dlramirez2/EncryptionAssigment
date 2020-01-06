@@ -4,7 +4,7 @@
 
 ## Part 3
 
-* For the first part of this assigment I was tasked to complete the source code so that the image tux.ppm would be encrypted using ECB mode, and CBC mode. As can be seen in the assigment report, Assginemtn1 DLR file, the picture encrypted with ECB is easily decipherable. 
+* For the first part of this assigment I was tasked to complete the source code so that the image tux.ppm would be encrypted using ECB mode, and CBC mode. As can be seen in the assigment report, 'Assignment1 DLR' file, the picture encrypted with ECB is easily decipherable. 
 
 ## Part B
 
